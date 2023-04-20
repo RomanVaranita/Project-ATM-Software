@@ -1,4 +1,4 @@
-public class Atm_Interface {
+public abstract class Atm_Interface {
     public void viewBalance() {
 
     }
@@ -14,6 +14,5 @@ public class Atm_Interface {
     public void viewMiniStatement() {
 
     }
-
 
 }
