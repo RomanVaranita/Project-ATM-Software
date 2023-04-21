@@ -16,6 +16,3 @@ View transaction history: View a list of your previous transactions.
 Change PIN: Change your PIN to a new one.
 Dependencies
 This project does not require any external dependencies.
-
-Note
-This implementation is for educational purposes only and should not be used for actual banking transactions. The security of this implementation is not guaranteed.
